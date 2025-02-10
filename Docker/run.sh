@@ -2,8 +2,8 @@
 
 ARGS=("$@")
 
-REPOSITORY="grounded_sam2"
-TAG="1.0"
+REPOSITORY="hrcnthu/sam2_2204"
+TAG="gpu"
 
 IMG="${REPOSITORY}:${TAG}"
 
